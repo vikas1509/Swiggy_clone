@@ -1,0 +1,700 @@
+[15:24, 4/18/2023] Nikhil Choudhary: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+      
+        swiggy
+    </title>
+    <link rel="icon" href="swiggylogo.png" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <nav class="nav-container">
+    
+            <div class="left1">
+                <img src="swiggylogo.png" alt="">
+                <div class="locate">
+                    <a href="#" style="color: black;"><b class="other">Other</b></a>
+                    <span>Jaipur, Rajasthan India</span>
+                    <span class="material-icons" style="color: orangered;">keyboard_arrow_down</span>
+                </div>
+            </div>
+            <div class="right1">
+                <div class="search">
+                    <span class="material-icons">
+                            search
+                    </span>
+                    <span>Search</span>
+                </div>
+                <div class="offer">
+                    <span class="material-icons">
+                        local_offer
+                    </span>
+                    <span>Offers</span>
+                </div>
+                <div class="help">
+                    <span class="material-icons">contact_support</span>
+                    <span>Help</span>
+                </div>
+                <div class="signin">
+                    <span class="material-icons">login</span>
+                    <span>Login</span>
+                </div>
+                <div class="cart">
+                    <span class="material-icons">shopping_bag</span>
+                    <span>Cart</span>
+                </div>
+           
+        </div>
+    </nav>
+ <div class="container">
+    <nav class="nav-container-1">
+        <h1>1473 restaurants</h1>
+        <div class="right-half">
+            <span>Relevence</span>
+            <span>Delivery Time</span>
+            <span>Rating</span>
+            <span>Cost: Low to high</span>
+            <span>Cost: High to low</span>
+        </div>
+    </nav>
+<div class="card-container">
+    <div class="card">
+        <img src="food1.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>
+            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+            <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food3.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+            <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food1.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+            <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food6.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+            <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food6.jpeg" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+             <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food5.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span> <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food4.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span> <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food3.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span> <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food3.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span> <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food2.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+            <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food5.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+            <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food6.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+            <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food6.jpeg" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+            <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food1.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+            <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+    <div class="card">
+        <img src="food2.webp" alt="card-image" class="card-image">
+        <h3>Shree Ram restaurant</h3>
+        <p>
+            North Indian, South Indian, Chinese , Juices ,
+             Ice creams , Main course , Rajasthani Thali
+        </p>
+        <div class="rating-container">
+            <div class="rating">
+                <span class="material-icons star"> star</span>
+                <span>4.5</span>
+            </div>            <div class="bullet"></div>
+            <span class="time">44 mins</span>
+            <div class="bullet"></div>
+            <span class="price">$200 for two</span>
+        </div>
+        <div class="offer-container">
+            <span class="material-icons">sell</span>
+            <span>50% 0ff | Use WELCOME40</span>
+        </div>
+        <button class="btn">Quick View</button>
+    </div>
+
+</div>
+ </div>
+ <footer class="footer">
+    <div class="grid-item">
+        <h5>COMPANY</h5>
+        <a href="#">About us</a>
+        <a href="#">Team</a>
+        <a href="#">Careers</a>
+        <a href="#">Swiggy Blog</a>
+        <a href="#">Blug Bounty</a>
+        <a href="#">Swiggy Super</a>
+        <a href="#">Swiggy Corporate</a>
+        <a href="#">Swiggy Instamart</a>
+
+    </div>
+    <div class="grid-item">
+        <h5>CONTACT US</h5>
+        <a href="#">Help & Support</a>
+        <a href="#">Partner with us</a>
+        <a href="#">Ride with us</a>
+    </div>
+    <div class="grid-item">
+        <h5>Legal</h5>
+        <a href="#">About us</a>
+        <a href="#">Team</a>
+        <a href="#">Careers</a>
+        <a href="#">Swiggy Blog</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Cookie Policy</a>
+        <a href="#">Swiggy Corporate</a>
+        <a href="#">Swiggy facebook</a>
+        <a href="#">Support</a>
+        <a href="#">swiggy corporate</a>
+        <a href="#">Phishing & Fraud</a>
+    </div>
+    <div class="grid-item">
+        <img  class="download" src="google.png" alt="">
+        <img class="download" src="apple1.png" alt="">
+    </div>
+ </footer>
+</body>
+</html>
+[15:27, 4/18/2023] Nikhil Choudhary: *{
+    margin: 0;
+    padding: 0;
+    font-family: Mulish, sans-serif;
+    background-color: #fbfbfb;
+}
+.nav-container{
+    background-color: white;
+    display: flex;
+  box-shadow: 0 10px 200px #fcfdfd;
+    justify-content: space-around;
+    padding: 10px;
+    margin-bottom: 40px;
+    /* align-items: center; */
+    position: fixed;
+    z-index: 10;
+    right: 0;
+    left: 0;
+    top: 0;
+    box-shadow: 0 1px 1px rgb(210, 208, 208);
+    font-size: 18px;
+    align-items: center;
+}
+.left1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    background-color: white;
+}
+.locate{
+    display: flex;
+    align-items: center;
+}
+.locate :hover{
+    cursor: pointer;
+}
+.other:hover{
+    color: orangered;
+}
+.left1 > img{
+    width: 40px;
+}
+.right1{
+    display: flex;
+    justify-content: centre;
+    align-items: center;
+gap: 40px;
+background-color: white;
+}
+.right1 > div{
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+
+}
+.right1 > div :hover{
+    cursor: pointer;
+    
+}
+.menu{
+    display: none;
+}
+.nav-container-1{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+.nav-container-1 > .right-half {
+display: flex;
+gap: 20px;
+
+}
+.nav-container-1 > .right-half > span {
+    font-weight: 300px;
+    
+}
+.right-half :hover{
+    cursor: pointer;
+}
+.container{
+    width: 80vw;
+    margin: auto;
+    margin-top: 100px;
+  
+}
+
+
+/* cards styling */
+
+.card{
+    padding: 10px;
+    width: 250px;
+    position: relative;
+    padding-bottom: 0px;
+}
+.card-image{
+    width: 250px;
+}
+.card > p{
+    margin: 5px 0;
+    font-weight: 100 !important;
+    font-size: 14px;
+    color: gray;
+}
+.rating-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px 0px;
+    border-bottom: 0.1px solid gray;
+    font-size: 13px;
+}
+.bullet{
+    width: 8px;
+    height: 8px;
+    background-color: black;
+    border-radius: 50%;
+}
+.offer-container{
+    display: flex;
+    padding: 10px 0;
+    border-bottom: 0.2px solid gray ;
+    font-size: 14px;
+    align-items: center;
+    gap: 10px;
+    color: #8A584B;
+}
+.card-container{
+    display: flex;
+    flex-flow: row wrap;
+   margin-top: 20px;
+    gap: 30px;
+}
+.card:hover{
+    outline: 0.5px solid gray;
+    
+}
+.rating-container > .rating{
+    display: flex;
+    align-items: center;
+    background-color: #DB7C38;
+    color: white;
+    font-size: 13px;
+   
+    /* width: 55px;
+    height: 25px; */
+    
+    padding: 5px 8px;
+    
+}
+.rating > span{
+    background-color: #DB7C38;
+}
+.star{
+    /* padding-left: 0px; */
+    font-size: 13px !important;
+    background-color: #DB7C38;
+}
+.card::before{
+    content: 'PROMOTED';
+    display: block;
+    position: absolute;
+    top: 10px;
+    background-color: #393C41;
+    color: white;
+    padding: 4px;
+    left: -2px;
+    font-size: 12px;
+}
+.btn{
+    border: none;
+    font-weight: bold;
+    color: blue;
+    margin: 5px auto;
+    display: block;
+    padding: 5px 0;
+    visibility: hidden;
+    
+
+}
+.card:hover .btn{
+    visibility: visible;
+    cursor: pointer;
+}
+.footer{
+    background-color: black;
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+padding: 100px;
+} 
+.footer h5{
+    background-color: black;
+    color: #808080;
+    margin: 10px 0px ;
+}
+.footer > div{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    gap: 5px;
+    background-color: black;
+    color: white;
+}
+.footer > div > a{
+    color: white;
+    text-decoration: none;
+    background-color: black;
+
+}
+.footer img{
+    width: 150px;
+    border: 2px solid gray;
+    transition-duration: 0.5s;
+    gap: 100px;
+    border-radius: 5px;
+    
+}
+.footer img:hover{
+    width: 160px;
+}
+.store-container{
+    align-items: center;
+    gap: 30px;
+}
+.footer a{
+    font-weight: 300;
+}
+.footer a:hover{
+    font-weight: bold;
+}
+@media (max-width:800){
+    .card-container{
+        grid-template-columns: repeat(2 , auto);
+    }
+    .footer{
+        grid-template-columns: repeat(2 , auto);
+    }
+}
+@media (max-width:600){
+.card-container{
+    grid-template-columns: auto;
+    justify-items: center;
+}
+.footer{
+    grid-template-columns: auto;
+    gap: 20px;
+}
+.right1{
+    display: none;
+}
+}
+
+/* 1.5 */
